@@ -1,2 +1,2 @@
-# Cassandra
+# CassandraDB
 Administração
